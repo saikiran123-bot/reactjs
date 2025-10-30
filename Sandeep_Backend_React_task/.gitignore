@@ -1,0 +1,22 @@
+# Ignore Python virtual environments
+myvenv/
+
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+
+# SQLite DB (optional)
+*.sqlite3
+
+# IDE/editor
+.vscode/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
